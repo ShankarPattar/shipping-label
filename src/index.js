@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ShippingLabelMaker from './shippingLabelMaker';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Components from './Components';
 
-ReactDOM.render(<ShippingLabelMaker/>, document.getElementById('root'));
+ReactDOM.render(<Components/>, document.getElementById('root'));
 

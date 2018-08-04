@@ -6,4 +6,4 @@ Follow below steps to run this code.
 3.open command/gitbash in shipping-label-maker directory and do npm install
 4.do npm start after successful installation
 5.sign in with user name and password (accepts any un and pw)
-6.Fill the details as directed in each steps and confirm it finally.
+6.Fill the details as directed in each steps and confirm it finally.#labelForShipping
